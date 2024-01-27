@@ -74,7 +74,7 @@ function createMap(earthquake) {
     div.innerHTML += "<h3 style='text-align: center'>Depth</h3>";
   
     // Add the legend labels.
-    for (let i = 0; i < depthRanges.length - 1; i++) {
+    for (let i = 0; i < depthRanges.length ; i++) {
       labels.push(
         '<i style="background:' +
           getColor(depthRanges[i] + 1) +

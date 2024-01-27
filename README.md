@@ -2,6 +2,10 @@
 
 ## Part 1: Create the Earthquake Visualization
 
+## Active deployments
+  url: https://mebrahtu-2012.github.io/leaflet-challenge/
+
+  
 ## Step 1: Get your dataset
   - Visit the USGS GeoJSON Feed page.
   - Choose a dataset, e.g., "All Earthquakes from the Past 7 Days."
